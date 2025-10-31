@@ -37,7 +37,7 @@ body {
 
 /* MENÚ */
 .menu {
-    background-color: #77C3C9;
+    background-color: #FCF2F2;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -129,3 +129,4 @@ h2 {
     }
 
 }
+
