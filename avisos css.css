@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Poppins", sans-serif;
-    background-color: #f4f7f9;
+    background-color: #111530;
     color: #222;
 }
 
@@ -37,7 +37,7 @@ body {
 
 /* MENÚ */
 .menu {
-    background-color: #6a4c93;
+    background-color: #77C3C9;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -51,11 +51,11 @@ body {
 }
 
 .menu a:hover {
-    background-color: #9b5de5;
+    background-color: #072224;
 }
 
 .menu .activo {
-    background-color: #9b5de5;
+    background-color: #072224;
 }
 
 /* CONTENIDO */
@@ -67,7 +67,7 @@ body {
 
 h2 {
     text-align: center;
-    color: #6a4c93;
+    color: #071924;
     margin-bottom: 30px;
 }
 
@@ -80,7 +80,7 @@ h2 {
 
 .aviso {
     background-color: white;
-    border-left: 6px solid #9b5de5;
+    border-left: 6px solid #000000;
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -101,7 +101,7 @@ h2 {
 
 .aviso h3 {
     margin: 5px 0;
-    color: #6a4c93;
+    color: #000000;
 }
 
 .aviso p {
@@ -127,4 +127,5 @@ h2 {
     .texto-encabezado h1 {
         font-size: 1.5em;
     }
+
 }
